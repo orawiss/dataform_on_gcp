@@ -1,6 +1,6 @@
 config {
  type: "table",
- schema: "dataform_sources",
+ schema: "dataform",
 }
 
 SELECT
