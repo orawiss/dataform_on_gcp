@@ -13,3 +13,4 @@ FROM
     ${ref(constants.GA4_TABLE)}
 WHERE
   event_name = 'page_view'
+  
